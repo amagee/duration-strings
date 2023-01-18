@@ -1,0 +1,7 @@
+{
+  "out": "./docs",
+  "name": "duration-strings",
+  "theme": "markdown",
+  "readme": "none",
+  "tsconfig": "./tsconfig.bundle.json"
+}
