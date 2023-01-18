@@ -34,7 +34,7 @@ Return a duration as a string, for example "1 day", "2 weeks".
 
 #### Defined in
 
-[index.ts:23](https://github.com/amagee/duration-strings/blob/16cb496/src/index.ts#L23)
+[index.ts:23](https://github.com/amagee/duration-strings/blob/75a1c9a/src/index.ts#L23)
 
 ___
 
@@ -78,7 +78,7 @@ formatRelativeDuration(1, 'day', locale, {alwaysNumeric: true})
 
 #### Defined in
 
-[index.ts:48](https://github.com/amagee/duration-strings/blob/16cb496/src/index.ts#L48)
+[index.ts:48](https://github.com/amagee/duration-strings/blob/75a1c9a/src/index.ts#L48)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[importer.ts:58](https://github.com/amagee/duration-strings/blob/16cb496/src/importer.ts#L58)
+[importer.ts:58](https://github.com/amagee/duration-strings/blob/75a1c9a/src/importer.ts#L58)
 
 ___
 
@@ -123,7 +123,7 @@ Return the raw unit name in plural form, for example
 
 #### Defined in
 
-[index.ts:16](https://github.com/amagee/duration-strings/blob/16cb496/src/index.ts#L16)
+[index.ts:16](https://github.com/amagee/duration-strings/blob/75a1c9a/src/index.ts#L16)
 
 ___
 
@@ -147,4 +147,4 @@ Return the raw unit name in singular form, for example
 
 #### Defined in
 
-[index.ts:8](https://github.com/amagee/duration-strings/blob/16cb496/src/index.ts#L8)
+[index.ts:8](https://github.com/amagee/duration-strings/blob/75a1c9a/src/index.ts#L8)

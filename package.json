@@ -1,7 +1,7 @@
 {
   "name": "duration-strings",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Format durations in different forms and locales",
   "cdn": "dist/index.umd.js",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
