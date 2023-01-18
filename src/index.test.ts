@@ -32,6 +32,8 @@ test("relative duration special cases", () => {
   expect(formatRelativeDuration(1, 'day', en_AU!)).toEqual("tomorrow");
   expect(formatRelativeDuration(-1, 'week', en_AU!)).toEqual("last week");
   expect(formatRelativeDuration(1, 'year', pl!)).toEqual("w przyszłym roku");
+  expect(formatRelativeDuration(0, 'week', en_AU!)).toEqual("this week");
+  expect(formatRelativeDuration(0, 'week', pl!)).toEqual("w tym tygodniu");
 })
 
 test("relative duration special cases with alwaysNumeric = false", () => {
